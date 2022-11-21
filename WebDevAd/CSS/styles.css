@@ -1,0 +1,68 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Alfa-Slab-One', sans-serif;
+}
+
+.codepen {
+  position: relative;
+  height: 50px;
+  width: 50px;
+  margin:20px;
+}
+
+.content {
+  background-color: #E2C275;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin: 25px 120px;
+}
+
+.footer {
+  background-color: #E2C275;
+  height: 200px;
+  width: 100%;
+  margin-top: 2rem;
+}
+
+.github {
+  position: relative;
+  height: 50px;
+  width: 50px;
+  margin: 20px;
+}
+
+.heading {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #E2C275;
+  height: 300px;
+  line-height: 8;
+  margin: 2rem;
+  position: relative;
+}
+
+.lvskyline {
+  bottom: 0;
+  left: 30%;
+  position: absolute;
+}
+
+.retro-sun {
+  position: absolute;
+  height: 100%;
+  left: 0;
+}
+
+.table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.trademark {
+  bottom: 0;
+  position: relative;
+}
